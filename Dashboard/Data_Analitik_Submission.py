@@ -21,7 +21,7 @@ from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 
 # Load data
-df = pd.read_csv('PRSA_Data_Shunyi_20130301-20170228.csv')
+df = pd.read_csv('Dashboard/PRSA_Data_Shunyi_20130301-20170228.csv')
 
 # Cek kolom
 print(df.columns)
