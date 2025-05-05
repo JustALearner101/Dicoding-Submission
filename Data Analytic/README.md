@@ -22,6 +22,4 @@ We're using the **PRSA Data Shunyi** dataset:
 ## ✅ Prerequisites
 Make sure you have **Python 3.8+** installed.
 Install the required libraries by running `pip install -r requirements.txt` in your terminal.
-All and all, run `streamlit run Data Analitik Submission` in your terminal
-
-### 1. Clone the repository
+All and all, run `streamlit run Data_Analitik_Submission.py` in your terminal
